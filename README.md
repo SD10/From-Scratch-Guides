@@ -7,3 +7,6 @@ I haven't done all of these yet, so YMMV.
 - [SQLite clone in C](https://cstack.github.io/db_tutorial/)
 - [Text editor in C](http://viewsourcecode.org/snaptoken/kilo/)
 - [Cloning Yelp in React](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
+- [How to Make a Computer Operating System in C/C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+- [Building a Modern Computer from First Principles](http://www.nand2tetris.org)
+- [Crafting Interpreters in C & Java](http://craftinginterpreters.com/contents.html)
